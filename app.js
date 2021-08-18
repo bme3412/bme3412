@@ -1,30 +1,42 @@
-// Log to console
-console.log('Hello World');
-console.log(123);
-console.log(true);
-var greeting = 'Hello';
-console.log(greeting);
-console.log([1,2,3,4]);
-console.log({a:1, b:2});
-console.table({a:1, b:2})
+// PRIMITIVE TYPES
 
-console.error('This is some error');
-console.clear();
-console.warn('This is a warning');
-console.time('Hello');
-    console.log('Hello World');
-    console.log('Hello World');
-    console.log('Hello World');
-    console.log('Hello World');
-    console.log('Hello World');
-    console.log('Hello World');
+// Strings
+const name = 'John Doe';
 
+console.log(typeof name);
 
-console.timeEnd('Hello');
+// Number
+const age = 45;
+console.log(typeof age);
 
-/*
-    multi
-    line
-    comments
+// Boolean
+const hasKids = true;
+console.log(typeof hasKids);
 
-*/
+// Null
+const car = null;
+
+console.log(typeof car);
+
+// Undefined
+let test;
+console.log(typeof test);
+
+// Symbol
+const sym = Symbol();
+console.log(typeof sym);
+
+// REFERENCE TYPES - Objets
+// Array
+const hobbies = ['movies', 'sports', 'travel']
+console.log(typeof hobbies);
+
+const address = {
+    city: 'Boston',
+    state: 'MA'
+}
+console.log(address);
+console.log(typeof address);
+const today = new Date();
+console.log(today);
+console.log(typeof today);
