@@ -1,42 +1,42 @@
-// PRIMITIVE TYPES
+let val;
 
-// Strings
-const name = 'John Doe';
+// Number to String
+val = String(5);
+val = String(4+4);
 
-console.log(typeof name);
+// Boolean to string
+val = String(true);
 
-// Number
-const age = 45;
-console.log(typeof age);
+// Date to string
+val = String(new Date());
 
-// Boolean
-const hasKids = true;
-console.log(typeof hasKids);
+// array to string
+val = String([1,2,3,4]);
 
-// Null
-const car = null;
+// toString()
+val = (5).toString();
+val = (true).toString();
 
-console.log(typeof car);
+// String to number
+val = Number('5')
+val = Number(true);
+val = Number(false);
+val = Number(null);
+val = Number('hello');
+val = Number([1,2,3]);
 
-// Undefined
-let test;
-console.log(typeof test);
+val = parseInt('100');
+val = parseFloat('100.30');
 
-// Symbol
-const sym = Symbol();
-console.log(typeof sym);
+// Output
+console.log(val);
+console.log(typeof val);
+// console.log(val.length);
+console.log(val.toFixed(2));
 
-// REFERENCE TYPES - Objets
-// Array
-const hobbies = ['movies', 'sports', 'travel']
-console.log(typeof hobbies);
+const val1 = String(5);
+const val2 = 6;
+const sum = Number(val1 + val2);
 
-const address = {
-    city: 'Boston',
-    state: 'MA'
-}
-console.log(address);
-console.log(typeof address);
-const today = new Date();
-console.log(today);
-console.log(typeof today);
+console.log(sum);
+console.log(typeof sum);
