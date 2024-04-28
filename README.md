@@ -2,11 +2,11 @@ Working on lots of projects. Stay tuned
 
 Go Celtics!
 
-### 🐍 Pythonic Journey: Analyzing Personal Python Library Usage
+### 🐍 Code Crawler: Analyzing Personal Python Library Usage
 
-Explore your personal Python library usage with **Pythonic Journey**. This script dives into your Python and Jupyter Notebook files across multiple directories, extracting metadata to generate a comprehensive report. This report details library usage patterns, first usage dates, and usage metrics.
+Explore your personal Python library usage with **Code Crawler**. This script dives into your Python and Jupyter Notebook files across multiple directories, extracting metadata to generate a comprehensive report. This report details library usage patterns, first usage dates, and usage metrics.
 
-[![Generate Report](https://img.shields.io/badge/Generate-Report-blue?style=for-the-badge&logo=python)](https://github.com/yourusername/pythonic-journey)
+[![Generate Report](https://img.shields.io/badge/Generate-Report-blue?style=for-the-badge&logo=python)]([https://github.com/bme3412/pythonic-journey](https://github.com/bme3412/AI_Projects_with_Python/tree/main/code_crawl))
 
 ### 📸 LlamaLens Caption Generator
 
