@@ -2,6 +2,16 @@ Working on lots of projects. Stay tuned
 
 Go Celtics!
 
+### 🏅 Olympics Schedule Tracker
+Personalize your Olympic viewing experience with this user-friendly app. Features include:
+
+Team selection from all participating countries
+Customizable viewing location for accurate local times
+Date and sport filters
+Detailed event information including teams, times, and rounds
+
+[![Launch Olympics Schedule Tracker](https://your-svg-host.com/olympics-tracker-button.svg)](https://olympics-time-converter.vercel.app/)
+
 ### 🐍 Code Crawler: Analyzing Personal Python Library Usage
 
 Exploring personal Python library usage with **Code Crawler**. This script dives into Python and Jupyter Notebook files across multiple directories, extracting metadata to generate a comprehensive report. This report details library usage patterns, first usage dates, and usage metrics.
