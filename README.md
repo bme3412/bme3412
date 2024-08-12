@@ -5,7 +5,7 @@ Go Celtics!
 ## 🌍 Global Sports Time
 Explore the world of sports across time zones with Global Sports Time. This React-based web application leverages technologies like Next.js, Tailwind CSS, and custom APIs to provide a seamless sports scheduling experience. Select your favorite teams from multiple leagues, set your viewing location, and get accurate game times tailored to your timezone. From NBA to Premier League, never miss a match again!
 
-[![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global Sports Time_Converter-blue?style=for-the-badge&logo=appveyor)](https://global-sports-time.vercel.app/)
+[![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global-Sports-Time-Converter-blue?style=for-the-badge&logo=appveyor)](https://global-sports-time.vercel.app/)
 
 ## 🏅 Olympics Time Converter
 Personalize your Olympic viewing experience with this user-friendly app. Features include:
