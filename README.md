@@ -10,7 +10,7 @@ Customizable viewing location for accurate local times
 Date and sport filters
 Detailed event information including teams, times, and rounds
 
-[![Launch Olympics Schedule Tracker](https://your-svg-host.com/olympics-tracker-button.svg)](https://olympics-time-converter.vercel.app/)
+[![Launch Olympics Schedule Tracker](https://img.shields.io/badge/Launch-LlamaLens-blue?style=for-the-badge&logo=appveyor)](https://olympics-time-converter.vercel.app/)
 
 ### 🐍 Code Crawler: Analyzing Personal Python Library Usage
 
