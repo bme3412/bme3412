@@ -1,20 +1,35 @@
-Working on lots of projects. Stay tuned
+# Welcome to My GitHub Profile!
 
-Go Celtics!
+Working on lots of projects. Stay tuned!
+
+Go Celtics! 🍀
 
 ## 🌍 Global Sports Time
-Dive into global sports with Global Sports Time, a React-powered app using Next.js and Tailwind CSS. This comprehensive platform covers multiple leagues from Premier League to NBA, offering timezone-adjusted schedules and country-specific viewing guides. Select teams, set your location, and access personalized game times and broadcast details. Leveraging custom APIs and CSV data, it provides an intuitive interface for filtering games by date and team. With features like dynamic scheduling and detailed viewing options, Global Sports Time ensures you never miss a match, no matter where you are. Experience the world of sports at your fingertips!
 
-[![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global-Sports-Time-Converter-blue?style=for-the-badge&logo=appveyor)](https://global-sports-time.vercel.app/)
+Dive into global sports with Global Sports Time, a React-powered app using Next.js and Tailwind CSS. This comprehensive platform covers multiple leagues from Premier League to NBA, offering timezone-adjusted schedules and country-specific viewing guides.
+
+**Key Features:**
+- Select teams and set your location
+- Access personalized game times and broadcast details
+- Intuitive interface for filtering games by date and team
+- Leverages custom APIs and CSV data
+- Dynamic scheduling and detailed viewing options
+
+Experience the world of sports at your fingertips!
+
+[![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global_Sports_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://global-sports-time.vercel.app/)
 
 ## 🏅 Olympics Time Converter
-Personalize your Olympic viewing experience with this user-friendly app. Features include:
+
+Personalize your Olympic viewing experience with this user-friendly app.
+
+**Features include:**
 - Team selection from all participating countries
 - Customizable viewing location for accurate local times
 - Date and sport filters
 - Detailed event information including teams, times, and rounds
 
-[![Launch Olympics Time Converter](https://img.shields.io/badge/Launch-Olympics_Time_Converter-blue?style=for-the-badge&logo=appveyor)](https://olympics-time-converter.vercel.app/)
+[![Launch Olympics Time Converter](https://img.shields.io/badge/Launch-Olympics_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://olympics-time-converter.vercel.app/)
 
 ## 🐍 Code Crawler: Analyzing Personal Python Library Usage
 Exploring personal Python library usage with **Code Crawler**. This script dives into Python and Jupyter Notebook files across multiple directories, extracting metadata to generate a comprehensive report. This report details library usage patterns, first usage dates, and usage metrics.
