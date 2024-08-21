@@ -6,7 +6,7 @@ Go Celtics! 🍀
 
 ## 🌍 Global Sports Time
 
-Dive into global sports with Global Sports Time, a React-powered app using Next.js and Tailwind CSS. This comprehensive platform covers multiple leagues from Premier League to NBA, offering timezone-adjusted schedules and country-specific viewing guides.
+Navigate global sports effortlessly with this Next.js and React-powered app, featuring timezone-adjusted schedules and country-specific viewing guides across the global sports media landscape
 
 **Key Features:**
 - Select teams and set your location
@@ -15,7 +15,8 @@ Dive into global sports with Global Sports Time, a React-powered app using Next.
 - Leverages custom APIs and CSV data
 - Dynamic scheduling and detailed viewing options
 
-Experience the world of sports at your fingertips!
+**Tech:**
+ - Frontend: React with Next.js; Styling: Tailwind CSS; Data: JSON and CSV imports; State Management: React Hooks (useState, useEffect); API Integration: fetch for IP-based location
 
 [![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global_Sports_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://global-sports-time.vercel.app/)
 
