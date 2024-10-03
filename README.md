@@ -1,24 +1,14 @@
-![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
+!(https://komarev.com/ghpvc/?username=bme3412)
 
 ## 🌍 Global Sports Time
 
 Navigate global sports effortlessly with this Next.js and React-powered app, featuring timezone-adjusted schedules and country-specific viewing guides across the global sports media landscape
-
-**Tech:**
  - Frontend: React with Next.js; Styling: Tailwind CSS; Data: JSON and CSV imports; State Management: React Hooks (useState, useEffect); API Integration: fetch for IP-based location
-
 [![Launch Global Sports Time Converter](https://img.shields.io/badge/Launch-Global_Sports_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://global-sports-time.vercel.app/)
 
 ## 🏅 Olympics Time Converter
 
 Personalize your Olympic viewing experience with this user-friendly app.
-
-**Features include:**
-- Team selection from all participating countries
-- Customizable viewing location for accurate local times
-- Date and sport filters
-- Detailed event information including teams, times, and rounds
-
 [![Launch Olympics Time Converter](https://img.shields.io/badge/Launch-Olympics_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://olympics-time-converter.vercel.app/)
 
 ## 🐍 Code Crawler: Analyzing Personal Python Library Usage
