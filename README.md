@@ -1,4 +1,4 @@
-!(https://komarev.com/ghpvc/?username=bme3412)
+![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
 
 ## 🌍 Global Sports Time
 
