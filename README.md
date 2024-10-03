@@ -1,18 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
-Working on lots of projects. Stay tuned!
-
-Go Celtics! 🍀
 
 ## 🌍 Global Sports Time
 
 Navigate global sports effortlessly with this Next.js and React-powered app, featuring timezone-adjusted schedules and country-specific viewing guides across the global sports media landscape
-
-**Key Features:**
-- Select teams and set your location
-- Access personalized game times and broadcast details
-- Intuitive interface for filtering games by date and team
-- Leverages custom APIs and CSV data
-- Dynamic scheduling and detailed viewing options
 
 **Tech:**
  - Frontend: React with Next.js; Styling: Tailwind CSS; Data: JSON and CSV imports; State Management: React Hooks (useState, useEffect); API Integration: fetch for IP-based location
