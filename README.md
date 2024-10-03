@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile!
-
+![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
 Working on lots of projects. Stay tuned!
 
 Go Celtics! 🍀
