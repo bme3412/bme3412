@@ -10,6 +10,7 @@ Navigate global sports effortlessly with this Next.js and React-powered app, fea
 ## 🏅 Olympics Time Converter
 
 Personalize your Olympic viewing experience with this user-friendly app.
+
 [![Launch Olympics Time Converter](https://img.shields.io/badge/Launch-Olympics_Time_Converter-blue?style=for-the-badge&logo=vercel)](https://olympics-time-converter.vercel.app/)
 
 ## 🐍 Code Crawler: Analyzing Personal Python Library Usage
