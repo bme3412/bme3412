@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Brendan
 
-Tech Investor and AI Programmer focused on applying generative AI and LLMs to investment management.
+Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
 
 ## 🛠️ Technical Stack
 
