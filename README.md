@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
 
-# 👋 Hello, I'm Brendan
+# 👋 Hello!
 
-Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
+I am a Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
 
 [AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
 
