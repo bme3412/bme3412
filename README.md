@@ -2,8 +2,7 @@
 
 # 👋 Hello, I'm Brendan
 
-## About Me
-Tech Investor and AI Programmer focused on building the future of financial technology. I specialize in developing AI-driven investment solutions that bridge the gap between traditional finance and cutting-edge artificial intelligence.
+Tech Investor and AI Programmer focused on applying generative AI and LLMs to investment management.
 
 ## 🛠️ Technical Stack
 
