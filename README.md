@@ -54,4 +54,6 @@ Thoughts on applying LLM/AI to investment management, including case studies
 Interactive resume with LLM and vector database - ask anything about my background and work experience!
 - Tech stack: Python, LlamaIndex, OpenAI/Anthropic/Google Gemini, React, Next.js
 
-
+### [Passport & Ponder](https://travel-photos-jade.vercel.app/)
+Photos and experiences from my trips around the world - 46 countries, 6 continents.
+- Built with Next.js, Python, MapBox and AWS
