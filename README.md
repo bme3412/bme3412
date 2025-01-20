@@ -1,12 +1,55 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
 
 # 👋 Hello, I'm Brendan
-> Financial Technology Developer specializing in AI-Driven Investment Solutions
+
+## About Me
+Tech Investor and AI Programmer focused on building the future of financial technology. I specialize in developing AI-driven investment solutions that bridge the gap between traditional finance and cutting-edge artificial intelligence.
+
+## 🛠️ Technical Stack
+
+### AI & Machine Learning
+- **LLM Integration**: OpenAI (Tier 4 Developer), Anthropic Claude, Google Gemini
+- **AI Frameworks**: LangChain, LlamaIndex, Microsoft CoPilot
+- **Vector Databases**: Pinecone, Chroma, FAISS
+- **NLP Libraries**: NLTK, SpaCY
+
+### Programming Languages & Core Technologies
+- **Python**: Advanced multi-thread processing, OOP, Jupyter Notebooks
+- **JavaScript**: React, Node.js, Next.js
+- **Type Validation**: Pydantic, Pydantic AI
+
+### Web Development
+- **Backend Frameworks**: Flask, Django, FastAPI
+- **Frontend**: Streamlit, React
+- **API Development**: RESTful APIs, GraphQL
+
+### Data Engineering & Analysis
+- **Databases**: SQL, MongoDB
+- **Cloud Platforms**: AWS, Azure
+- **Data Visualization**: Matplotlib, Seaborn, bokeh, d3.js
+- **Web Scraping**: BeautifulSoup, Selenium, Firecrawl.dev
+
+### Developer Tools
+- **Version Control**: Git, GitHub
+- **Documentation**: Sphinx, MkDocs
+- **CI/CD**: GitHub Actions, Jenkins
+
+## 🚀 Featured Projects
+
+### [AI/LLM Project Portfolio]([https://github.com/yourusername/project1](https://bme-ai-investing.vercel.app/))
+AI Project Portfolio
+- Tech stack: Python, LangChain, OpenAI, React/Next.js
+
+### [Clarity 2.0](https://github.com/yourusername/project1)
+Investment CoPilot
+- Tech stack: Python, LangChain, OpenAI, FastAPI, React, Pinecone vector database
+
+### [LLM Investing Blog]([https://github.com/yourusername/project2](https://investment-llm.vercel.app/))
+Thoughts on applying LLM/AI to investment management, including case studies
+- Tech stack: Python, TensorFlow, MongoDB, AWS
+
+### [ResumeLLM](https://github.com/yourusername/project3)
+Interactive resume with LLM and vector database - ask anything about my background and work experience!
+- Tech stack: Python, LlamaIndex, OpenAI/Anthropic/Google Gemini, React, Next.js
 
 
-## 🔧 Tech Stack
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
