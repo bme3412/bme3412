@@ -4,7 +4,6 @@
 
 Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
 ### [AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
-View my AI Project Portfolio
 
   
 ## 🛠️ Technical Stack
