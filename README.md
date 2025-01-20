@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Brendan
 
 Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
-View my --> ### [AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
+[AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
 
   
 ## 🛠️ Technical Stack
