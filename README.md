@@ -36,7 +36,7 @@ Tech Investor and AI Programmer focused on building the future of financial tech
 
 ## 🚀 Featured Projects
 
-### [AI/LLM Project Portfolio]([https://github.com/yourusername/project1](https://bme-ai-investing.vercel.app/))
+### [AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
 AI Project Portfolio
 - Tech stack: Python, LangChain, OpenAI, React/Next.js
 
@@ -44,7 +44,7 @@ AI Project Portfolio
 Investment CoPilot
 - Tech stack: Python, LangChain, OpenAI, FastAPI, React, Pinecone vector database
 
-### [LLM Investing Blog]([https://github.com/yourusername/project2](https://investment-llm.vercel.app/))
+### [LLM Investing Blog](https://investment-llm.vercel.app/)
 Thoughts on applying LLM/AI to investment management, including case studies
 - Tech stack: Python, TensorFlow, MongoDB, AWS
 
