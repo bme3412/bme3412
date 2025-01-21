@@ -42,7 +42,7 @@ I am a Tech Investor and AI Programmer enthusiastically applying generative AI a
 AI Project Portfolio
 - Tech stack: Python, LangChain, OpenAI, React/Next.js
 
-### [Clarity 2.0](https://github.com/yourusername/project1)
+### [Clarity 2.0](https://investment-copilot-eight.vercel.app/)
 Investment CoPilot
 - Tech stack: Python, LangChain, OpenAI, FastAPI, React, Pinecone vector database
 
@@ -50,7 +50,7 @@ Investment CoPilot
 Thoughts on applying LLM/AI to investment management, including case studies
 - Tech stack: Python, TensorFlow, MongoDB, AWS
 
-### [ResumeLLM](https://github.com/yourusername/project3)
+### [ResumeLLM](https://llm-resume-bme.vercel.app/)
 Interactive resume with LLM and vector database - ask anything about my background and work experience!
 - Tech stack: Python, LlamaIndex, OpenAI/Anthropic/Google Gemini, React, Next.js
 
