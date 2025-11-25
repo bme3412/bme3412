@@ -33,8 +33,7 @@ I am a Tech Investor and AI Programmer enthusiastically applying generative AI a
 
 ### Developer Tools
 - **Version Control**: Git, GitHub
-- **Documentation**: Sphinx, MkDocs
-- **CI/CD**: GitHub Actions, Jenkins
+- **CI/CD**: GitHub Actions
 
 ## 🚀 Featured Projects
 
