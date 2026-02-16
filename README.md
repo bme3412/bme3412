@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bme3412)
 
-# 👋 Hello! I'm Brendan
+# 👋 Hello!
 
 **AI Engineer & Technology Investment Professional** — 15 years of tech investing experience + building production AI applications that bridge deep domain expertise with modern ML/LLM infrastructure.
 
