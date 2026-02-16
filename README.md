@@ -10,7 +10,7 @@
 # 🚀 Featured Projects
 
 ### [Traverse](https://github.com/bme3412/traverse)
-AI-powered visa application auditor covering 37,800+ travel corridors in 100+ languages. Reviews documents like an immigration expert to catch errors that cause preventable rejections.
+AI-powered visa application auditor covering 37,800+ travel corridors in 100+ languages. Reviews documents like an immigration expert to catch errors that cause preventable rejections. Built for Anthropic Claude Code Opus 4.6 Hackathon (limited to 500 participants from 13,000 that applied)
 - **Stack:** Next.js, TypeScript, AI APIs, Vercel
 - 🔗 [Live Demo](https://traverse-mu.vercel.app/)
 
