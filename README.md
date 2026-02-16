@@ -4,37 +4,6 @@
 
 I am a Tech Investor and AI Programmer enthusiastically applying generative AI and LLMs to investment management.
 
-[AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
-
-  
-## 🛠️ Technical Stack
-
-### AI & Machine Learning
-- **LLM Integration**: OpenAI (Tier 4 Developer), Anthropic Claude, Google Gemini
-- **AI Frameworks**: LangChain, LlamaIndex, Microsoft CoPilot
-- **Vector Databases**: Pinecone, Chroma, FAISS
-- **NLP Libraries**: NLTK, SpaCY
-
-### Programming Languages & Core Technologies
-- **Python**: Advanced multi-thread processing, OOP, Jupyter Notebooks
-- **JavaScript**: React, Node.js, Next.js
-- **Type Validation**: Pydantic, Pydantic AI
-
-### Web Development
-- **Backend Frameworks**: Flask, Django, FastAPI
-- **Frontend**: Streamlit, React
-- **API Development**: RESTful APIs, GraphQL
-
-### Data Engineering & Analysis
-- **Databases**: SQL, MongoDB
-- **Cloud Platforms**: AWS, Azure
-- **Data Visualization**: Matplotlib, Seaborn, bokeh, d3.js
-- **Web Scraping**: BeautifulSoup, Selenium, Firecrawl.dev
-
-### Developer Tools
-- **Version Control**: Git, GitHub
-- **CI/CD**: GitHub Actions
-
 ## 🚀 Featured Projects
 
 ### [AI/LLM Project Portfolio](https://bme-ai-investing.vercel.app/)
