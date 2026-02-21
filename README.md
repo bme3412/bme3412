@@ -4,7 +4,13 @@
 
 **AI Engineer & Technology Investment Professional** — 15 years of tech investing experience + building production AI applications that bridge deep domain expertise with modern ML/LLM infrastructure.
 
-🎓NVIDIA GenAI/LLM Professional Certified & NVIDIA Agentic AI Professional Certified | ☁️ AWS Certified Cloud Practitioner & AI Practitioner
+NVIDIA GenAI/LLM Associate Certified
+NVIDIA GenAI/LLM Professional Certified
+NVIDIA Agentic AI Professional Certified
+AWS Certified Cloud Practitioner
+AWS Certified AI Practitioner
+Tier 4 OpenAI Developer
+Tier 4 Anthropic Developer
 
 
 # 🚀 Featured Projects
