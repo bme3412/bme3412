@@ -4,14 +4,13 @@
 
 **AI Engineer & Technology Investment Professional** — 15 years of tech investing experience + building production AI applications that bridge deep domain expertise with modern ML/LLM infrastructure.
 
-NVIDIA GenAI/LLM Associate Certified
-NVIDIA GenAI/LLM Professional Certified
-NVIDIA Agentic AI Professional Certified
-AWS Certified Cloud Practitioner
-AWS Certified AI Practitioner
-Tier 4 OpenAI Developer
+NVIDIA GenAI/LLM Associate Certified  
+NVIDIA GenAI/LLM Professional Certified  
+NVIDIA Agentic AI Professional Certified  
+AWS Certified Cloud Practitioner  
+AWS Certified AI Practitioner  
+Tier 4 OpenAI Developer  
 Tier 4 Anthropic Developer
-
 
 # 🚀 Featured Projects
 
@@ -37,4 +36,3 @@ RAG-powered earnings analysis system processing 240+ tech company transcripts. A
 AI-powered discounted cash flow model for big tech companies. Select a ticker, adjust segment-level growth assumptions with real earnings context, and get a fair value estimate — institutional-grade financial modeling in the browser.
 - **Stack:** Next.js, TypeScript, Anthropic Claude API, Vercel
 - 🔗 [Live Demo](https://llm-dcf.vercel.app/)
-
