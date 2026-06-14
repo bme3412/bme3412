@@ -12,24 +12,6 @@ AWS Certified AI Practitioner
 Tier 4 OpenAI Developer  
 Tier 4 Anthropic Developer
 
-## 🎓 Certifications
-
-**NVIDIA**
-
-![NVIDIA GenAI/LLM Associate](https://img.shields.io/badge/NVIDIA-GenAI%2FLLM%20Associate-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![NVIDIA GenAI/LLM Professional](https://img.shields.io/badge/NVIDIA-GenAI%2FLLM%20Professional-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![NVIDIA Agentic AI Professional](https://img.shields.io/badge/NVIDIA-Agentic%20AI%20Professional-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**AWS**
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**Developer Tiers**
-
-![Anthropic Tier 4](https://img.shields.io/badge/Anthropic-Tier%204%20Developer-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI Tier 4](https://img.shields.io/badge/OpenAI-Tier%204%20Developer-412991?style=flat-square&logo=openai&logoColor=white)
-
 ---
 
 ## Featured Projects
