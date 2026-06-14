@@ -12,8 +12,6 @@ AWS Certified AI Practitioner
 Tier 4 OpenAI Developer  
 Tier 4 Anthropic Developer
 
----
-
 ## Featured Projects
 
 ### [Traverse](https://github.com/bme3412/traverse) · [Live Demo](https://traverse-mu.vercel.app/)
@@ -44,7 +42,6 @@ A beach and travel guide for Cape Cod featuring live bridge traffic and drive-ti
 A collection of full-stack AI applications spanning financial analysis, NLP, and generative AI — end-to-end builds from concept to deployment.
 **Stack:** TypeScript · Python · React/Next.js · various LLM APIs
 
----
 
 ## 🔗 Connect
 
