@@ -2,7 +2,7 @@
 
 # 👋 Hello!
 
-**AI Engineer & Technology Investment Professional** — 15 years of tech investing experience + building production AI applications that bridge deep domain expertise with modern ML/LLM infrastructure.
+15 years of finance experience + building AI applications.
 
 NVIDIA GenAI/LLM Associate Certified  
 NVIDIA GenAI/LLM Professional Certified  
@@ -29,6 +29,5 @@ A beach and travel guide for Cape Cod featuring live bridge traffic and drive-ti
 
 ## 🔗 Connect
 
-- 🌐 Portfolio: [bme-projects.vercel.app](https://bme-projects.vercel.app)
 - 💼 LinkedIn: https://www.linkedin.com/in/brendan-erhard/
 - 📧 Email: erhardbr@gmail.com
